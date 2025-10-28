@@ -23,6 +23,8 @@
     },
     "transport": {
       "sync": {
+        "layer_state": true,
+        "oled": true,
         "wpm": true
       }
     }
